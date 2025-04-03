@@ -1,0 +1,3 @@
+cryptsetup luksFormat --type luks1 /dev/sdX
+
+-----------------------------------------------
